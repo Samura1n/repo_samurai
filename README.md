@@ -1,2 +1,2 @@
 # repo_samurai
-look checkt 1
+look check 1
